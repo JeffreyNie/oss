@@ -8,4 +8,4 @@ jpa：mybatis
 缓存：redis  本地内存缓存：guava的loadingcache
 消息队列：kafka
 mvc框架：springmvc
-前端js框架：angularjs
+前端js框架：bootstrap
